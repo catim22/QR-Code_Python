@@ -1,4 +1,4 @@
-import qrcode,random, image,os
+import qrcode,random,os
 
 qr=qrcode.QRCode(version=5,box_size=10,border=1)
 inp = input("Please enter data which you want to convert to QR-Code:  ")

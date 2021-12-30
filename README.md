@@ -4,8 +4,7 @@
 
 ### This repository is based on concept of converting text or numbers into QR-Code.
 
-Need to install -- `pip install qrcode`
+Module to install -- `pip install qrcode`
 
 
-#### Created by [InvisblePro](https://github.com/InvisiblePro) 
 [![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro) 
